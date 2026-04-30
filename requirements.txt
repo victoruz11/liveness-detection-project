@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+opencv-python
+mediapipe
+numpy
+pillow
+scikit-learn
+matplotlib
+streamlit
+streamlit-webrtc
+av
