@@ -1,9 +1,12 @@
 streamlit
 streamlit-webrtc
 opencv-python-headless
+mediapipe
 numpy
 pillow
-mediapipe
+scikit-learn
+matplotlib
 torch
 torchvision
+torchaudio
 av
